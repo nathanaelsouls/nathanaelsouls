@@ -3,16 +3,16 @@
 
 Bem-vindo ao meu repositório. Aqui você vai encontrar projetos pessoais gerados ao longo dos meus estudos na área da programação.
 
-## 🔗 Links
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nathanaelsouls/)
-[![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanael-santana-9366a3174/)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanaelsouls&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanaelsouls&layout=compact)
 
-### 🚀 Sobre mim
+## 🚀 Sobre mim
 Eu sou uma pessoa desenvolvedora full-stack, com mais conhecimento no backend. Apaixonado por tecnologia, jogos, filmes.
+
+### 🔗 Links
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nathanaelsouls/)
+[![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanael-santana-9366a3174/)
 
 ### Tecnologias que eu uso no meu dia a dia
 
