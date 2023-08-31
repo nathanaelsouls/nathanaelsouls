@@ -5,7 +5,7 @@ Bem-vindo ao meu repositório. Aqui você vai encontrar projetos pessoais gerado
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanaelsouls&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanaelsouls&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanaelsouls&layout=compact&theme=radical)
 
 ## 🚀 Sobre mim
 Eu sou uma pessoa desenvolvedora full-stack, com mais conhecimento no backend. Apaixonado por tecnologia, jogos, filmes.
