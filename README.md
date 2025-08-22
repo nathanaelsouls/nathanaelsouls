@@ -1,23 +1,41 @@
+# Olá, eu sou o Nathanael Santana ✌️
 
-## Olá, eu sou o Nathanael Santana 🫡
+Bem-vindo(a) ao meu cantinho no GitHub! Sou um desenvolvedor apaixonado por tecnologia e aqui você encontrará os projetos e códigos que venho criando ao longo da minha jornada de estudos e carreira.
 
-Bem-vindo ao meu repositório. Aqui você vai encontrar projetos pessoais gerados ao longo dos meus estudos na área da programação.
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanaelsouls&show_icons=true&theme=radical)
+### 🚀 Sobre Mim
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanaelsouls&layout=compact&theme=radical)
+Sou um **desenvolvedor Full-Stack**, com um carinho especial pelo **Back-end**, onde gosto de construir a lógica e a estrutura que sustentam as aplicações. Minha paixão por tecnologia vai além do código: sou um grande fã de **animes**, onde busco inspiração em narrativas complexas, e um **gamer** nas horas vagas, sempre pronto para um desafio — seja em um MOBA competitivo ou explorando mundos fantásticos.
 
-## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack, com mais conhecimento no backend. Apaixonado por tecnologia, jogos, filmes.
+Atualmente, estou focado em aprimorar minhas habilidades e construir soluções elegantes com **C#** e **TypeScript**.
 
-### 🔗 Links
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nathanaelsouls/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanael-santana-9366a3174/)
+<div align="center">
+  <a href="https://github.com/nathanaelsouls">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathanaelsouls&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanaelsouls&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
-### Tecnologias que eu uso no meu dia a dia
+---
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET#](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTMl5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+### 💻 Tecnologias e Ferramentas
+
+Estas são algumas das tecnologias com as quais estou trabalhando atualmente:
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white )
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white )
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white )
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black )
+![HTML5](https.img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white )
+<!-- Adicione outras tecnologias que você usa, como CSS, React, Angular, SQL, etc. -->
+
+---
+
+### 🔗 Conecte-se Comigo
+
+Vamos trocar uma ideia! Me encontre nas redes abaixo:
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/nathanaelsouls/ )
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/nathanael-santana-9366a3174/ )
+<!-- Se tiver Twitch, Twitter ou outra rede, pode adicionar aqui! -->
+
