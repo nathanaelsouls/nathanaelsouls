@@ -26,7 +26,7 @@ Estas são algumas das tecnologias com as quais estou trabalhando atualmente:
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white )
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white )
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black )
-![HTML5](https.img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white )
+![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 <!-- Adicione outras tecnologias que você usa, como CSS, React, Angular, SQL, etc. -->
 
 ---
